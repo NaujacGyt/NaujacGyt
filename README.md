@@ -12,7 +12,7 @@
   <td border="0">
 <a title="instagram" href="https://www.instagram.com/naujacgyt/"><img width="50%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/300px-Instagram_logo.svg.png" alt="instagram"></a></td>
 </table>
-<h3>aqui abajito donde me puedes contactar
+<h3><p>aqui abajito donde me puedes contactar</p>
 <p>•Correo electronico: naujacgamermcpe@gmail.com</p>
 <p>•whatsapp:
 <a title="whatsapp" href="https://api.whatsapp.com/send?phone=573115416379&text=hola%2C%20te%20gablo%20de%20github.">+573115416379</a>
